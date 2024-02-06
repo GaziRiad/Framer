@@ -1,6 +1,6 @@
 "use client";
 
-import { delay, motion, stagger } from "framer-motion";
+import { motion } from "framer-motion";
 
 function Box3() {
   const boxVariants = {
